@@ -1,0 +1,34 @@
+pyABA Math in GNU/Linux system
+
+Requirement:
+-----------
+python-qt4,espeak
+
+
+USAGE:
+------
+First Select two Operands as value1 and value 2
+Select the operator. 
+Confirm Level
+Click 'show' button on top right
+
+Level 1
+	Listen to the speech and then say & click on the values
+
+Level 2
+	Listen to the speech and then say & click the correct equation
+
+Level 3	
+	Say and Click the answer to the operation displayed and heard
+
+Level 4
+	Say and Click on the correct answer to the operation shown
+
+NOTE:
+-----
+In all the Levels, after a certain time the correct answer, will blink and speech will be heard again to assist the child to get the answer.
+
+AUTHOR
+------
+	
+insight.kerala.gov.in
